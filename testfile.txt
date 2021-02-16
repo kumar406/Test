@@ -4,5 +4,5 @@ Here is some sample text.
 
 Pineapple on pizza is delicious.
 
-CS 193 is my favorite class!
+I hate CS 193!!!
 
