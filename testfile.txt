@@ -1,2 +1,2 @@
-This is a demo on merge conflicts for CS 193.
+Bye! This is a demo on merge conflicts for CS 193.
 
