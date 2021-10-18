@@ -1,14 +1,2 @@
-Hello! This is a demo for CS 193.
-
-Here is some sample text.
-
-Pineapple on pizza is delicious.
-
-I hate CS 193!!!
-
-I like CS 193 it is my favorite class.
-
-This is my portion of the project.
-
-I like pizza.
+This is a demo on merge conflicts for CS 193.
 
